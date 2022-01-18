@@ -226,8 +226,8 @@ body {
   font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", "Marker Felt", "Purisa", "URW Chancery L", cursive, sans-serif;
   font-size: 16px;
   line-height: 20px;
-  color: #ffff00;
-  background-color: #0000ff;
+  color: #8be9fd;
+  background-color: #000000;
 }
 
 a {
@@ -1489,7 +1489,7 @@ input[type="checkbox"][readonly] {
 .control-group.warning .input-prepend .add-on,
 .control-group.warning .input-append .add-on {
   color: #000000;
-  background-color: #ffff00;
+  background-color: #8be9fd;
   border-color: #000000;
 }
 
@@ -2250,7 +2250,7 @@ table th[class*="span"],
 }
 
 .table tbody tr.warning > td {
-  background-color: #ffff00;
+  background-color: #8be9fd;
 }
 
 .table tbody tr.info > td {
@@ -3427,7 +3427,7 @@ input[type="button"].btn-block {
   background-repeat: repeat-x;
   border-color: #ff0000 #ff0000 #b30000;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff0000', endColorstr='#ffff0000', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8be9fd00', endColorstr='#8be9fd00', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
@@ -3868,7 +3868,7 @@ input[type="submit"].btn.btn-mini {
   padding: 8px 35px 8px 14px;
   margin-bottom: 20px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  background-color: #ffff00;
+  background-color: #8be9fd;
   border: 1px solid #ff0000;
   -webkit-border-radius: none;
      -moz-border-radius: none;
@@ -4790,7 +4790,7 @@ input[type="submit"].btn.btn-mini {
   background-image: linear-gradient(to bottom, #ff00ff, #ff00ff);
   background-repeat: repeat-x;
   border-color: #008000;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff00ff', endColorstr='#ffff00ff', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8be9fdff', endColorstr='#8be9fdff', GradientType=0);
 }
 
 .navbar-inverse .brand,
@@ -6166,7 +6166,7 @@ h2 {
 }
 
 h3 {
-  color: #ffff00;
+  color: #8be9fd;
 }
 
 h4 {
@@ -6231,7 +6231,7 @@ body {
 
 legend {
   font-weight: bold;
-  color: yellow;
+  color: #8be9fd;
 }
 
 .control-group.error input {
@@ -6257,13 +6257,13 @@ legend {
 .label-warning,
 .badge-warning {
   color: black;
-  background-color: yellow;
+  background-color: #8be9fd;
 }
 
 .label-warning[href],
 .badge-warning[href] {
   color: black;
-  background-color: yellow;
+  background-color: #8be9fd;
 }
 
 .label-success,

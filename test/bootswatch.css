@@ -64,7 +64,7 @@ section {
 	margin-bottom: 60px;
 	width: 100%;
 	height: 36px;
-	background-color: black; /* Old browsers */
+	background-color: #282a36; /* Old browsers */
 	color: white;
 	border: 1px solid #e5e5e5;
 }
@@ -82,14 +82,14 @@ section {
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
-	color: yellow;
+	color: #8be9fd;
 }
  
 .subnav .nav > li.active > a,
 .subnav .nav > li > a:hover {
 	padding-left: 13px;
-	background: yellow;
-	color: black;
+	background: #8be9fd;
+	color: #282a36;
 	border-right-color: #ddd;
 	border-left: 0;
 }
