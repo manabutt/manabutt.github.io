@@ -224,6 +224,7 @@ textarea {
 body {
   margin: 0;
   font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", "Marker Felt", "Purisa", "URW Chancery L", cursive, sans-serif;
+  src: url("comic-sans-ms/comici.ttf");
   font-size: 16px;
   line-height: 20px;
   color: #8be9fd;
@@ -1066,6 +1067,7 @@ button,
 select,
 textarea {
   font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", "Marker Felt", "Purisa", "URW Chancery L", cursive, sans-serif;
+  src: url("comic-sans-ms/comici.ttf");
 }
 
 label {
@@ -4511,6 +4513,7 @@ input[type="submit"].btn.btn-mini {
   padding: 4px 14px;
   margin-bottom: 0;
   font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", "Marker Felt", "Purisa", "URW Chancery L", cursive, sans-serif;
+  src: url("comic-sans-ms/comici.ttf");
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
